@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Visit Our Live site](https://kind-turing-69395f.netlify.app/).
 
-
 Our Project is basically a startup.
 
 # Specialities-
