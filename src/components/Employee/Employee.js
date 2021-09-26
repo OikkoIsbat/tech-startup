@@ -32,7 +32,7 @@ const Employee = (props) => {
             <h4>Skill: {skill}</h4>
             <h4>Age: {age}</h4>
             <h4>Country: {country}</h4>
-            <h4>Salary: ${salary}</h4>
+            <h4>Remuneration: ${salary}</h4>
             <button onClick={() => props.handleAddToCart(props.programmer)} className="buy-button">{element} Add To Cart</button>
 
             <span class="icon-git">{element2}</span> <span class="icon-linked-in">{element3}</span>

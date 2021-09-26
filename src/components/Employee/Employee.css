@@ -11,8 +11,8 @@
 }
 
 .emp-img{
-    width: 102px;
-    height: 80px;
+    width: 120px;
+    height: 90px;
     margin-left: 40px;
 
 }
@@ -22,6 +22,9 @@
     height: 28px;
     border-radius: 15px;
     
+}
+.buy-button:hover{
+    background-color:rgb(162, 224, 133);
 }
 
 .icon-git{
