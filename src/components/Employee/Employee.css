@@ -1,0 +1,30 @@
+.employee-card{
+    border: 1px solid red;
+    width: 200px;
+    height: 350px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 70px;
+    background-color: rosybrown;
+    
+    
+}
+
+.emp-img{
+    width: 102px;
+    height: 80px;
+    margin-left: 40px;
+
+}
+.buy-button{
+    color: orange;
+    width: 200px;
+    height: 28px;
+    border-radius: 15px;
+    
+}
+
+.icon-git{
+    margin-left: 50px;
+    margin-right:10px;
+}

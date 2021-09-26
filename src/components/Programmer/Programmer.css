@@ -1,0 +1,10 @@
+.Engineer-container{
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+}
+.Programmer-container{
+    border:1px solid gray;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
